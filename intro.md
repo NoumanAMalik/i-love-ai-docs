@@ -21,5 +21,3 @@
 - AI systems are now capable of performing many tasks that were previously thought to require human intelligence, such as playing complex games like Go and chess, recognizing objects in images, and translating between languages.
 - However, there are still many challenges to be overcome in AI research. For example, developing AI systems that can reason and understand context in the way that humans do remains a major challenge. Other challenges include ensuring that AI systems are fair, transparent, and accountable, and addressing the potential impact of AI on jobs and society.
 - Despite these challenges, AI has the potential to revolutionize many industries and aspects of our lives. For example, AI-powered medical diagnosis systems can help doctors make more accurate diagnoses, while self-driving cars can reduce traffic accidents and improve mobility for people who can't drive. As AI continues to advance, it will be important to ensure that its benefits are shared widely and that its risks are managed responsibly.
-
-[Watch the video](https://www.youtube.com/embed/1K0MKfOApNI?si=SL3kEvte2KQBvdXn)
