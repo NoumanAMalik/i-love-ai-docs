@@ -2,7 +2,7 @@
 
 [Section 1.1](#section-11)
 
-## Section 1.1 Introduction to Artificial Intelligence:(#section-11)
+[## Section 1.1 Introduction to Artificial Intelligence:](#section-11)
 - AI is a field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence. These tasks can include things like recognizing speech, understanding natural language, making decisions, and learning from experience.
 - AI has the potential to revolutionize many industries and aspects of our lives, from healthcare and transportation to education and entertainment. For example, AI-powered medical diagnosis systems can help doctors make more accurate diagnoses, while self-driving cars can reduce traffic accidents and improve mobility for people who can't drive.
 - However, AI also raises ethical and societal concerns, such as the potential for job displacement, bias and discrimination in decision-making, and the impact on privacy and security.
