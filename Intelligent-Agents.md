@@ -21,7 +21,7 @@
 - Categorizes task environments along dimensions such as fully vs. partially observable and deterministic vs. stochastic.
 - Emphasizes the importance of categorizing task environments for designing suitable agent programs.
 
-# Overall Summary
+## Overall Summary
 - Lays the foundation for understanding agents, rationality, and task environments.
 - Fundamental concepts include agent functions, percepts, and performance measures.
 - Explores challenges in defining appropriate performance measures for machines.
