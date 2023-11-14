@@ -6,7 +6,7 @@
 - Discusses percepts, percept sequences, and agent functions.
 - Explores the relationship between external and internal representations of agent functions.
 - Highlights the significance of the environment affecting agent perceptions and actions.
-
+![](https://miro.medium.com/v2/resize:fit:1400/0*3vqfPePsDDCsRLx8.gif)
 ## 2.2 Good Behavior: The Concept of Rationality
 - Explores the concept of rationality in AI.
 - Defines rational agents as those that perform the right actions.
