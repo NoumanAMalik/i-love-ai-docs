@@ -31,7 +31,7 @@
 - Stanford University's AI100 reports substantial increases in the future uses of AI applications, including self-driving cars, healthcare diagnostics, and more.
 - The AI Index reports show significant growth in AI-related fields, including machine learning, computer vision, and natural language processing.
 - Student enrollment in AI courses has increased significantly in the U.S. and internationally.
-- AI professors, Ph.D. students, and industry hires are predominantly male, with a lack of gender diversity.
+- There is a lack of gender diversity in the field of AI. Professors, Ph.D. students, and industry hires are predominantly male.
 - Conferences like NeurIPS have seen a significant increase in attendance.
 
 ## Section 1.5 Risks and Benefits of AI:
