@@ -1,14 +1,16 @@
 ## 1. Best-first search
 
 ### Overview
-How do we decide which node from the frontier to expand next? A very general approach
-is called **best-first search**, in which we choose a node, n, with minimum value of some Best-first search
-**evaluation function**, f(n). The psudocode shows the algorithm. On each iteration we choose Evaluation function
+- A very general approach is called **best-first search**, in which we choose a node, n, with minimum value of some Best-first search
+**evaluation function**, f(n).
+- The psudocode shows the algorithm. On each iteration we choose Evaluation function
 a node on the frontier with minimum f(n) value, return it if its state is a goal state, and
-otherwise apply EXPAND to generate child nodes. Each child node is added to the frontier
-if it has not been reached before, or is re-added if it is now being reached with a path that
-has a lower path cost than any previous path. The algorithm returns either an indication of
-failure, or a node that represents a path to a goal. By employing different f(n) functions, we
+otherwise apply EXPAND to generate child nodes.
+- Each child node is added to the frontier if it has not been reached before, or is re-added if it is now being reached with a path that
+has a lower path cost than any previous path.
+- The algorithm returns either an indication of
+failure, or a node that represents a path to a goal.
+- By employing different f(n) functions, we
 get different specific algorithms, which this chapter will cover. 
 ### Psudocode
 
