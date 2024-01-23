@@ -1,4 +1,4 @@
-# Chapter 2 Overview
+# Chapter 2: Intelligent Agents
 
 ## 2.1 Agents and Environments
 - Introduces the concept of agents and environments in AI.

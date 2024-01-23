@@ -1,3 +1,5 @@
+# Chapter 4: Search in Complex Environment
+
 ### 4.1 Search in Non-Deterministic Environments
 - Examines the challenges in environments where actions have non-deterministic outcomes.
 - Introduces conditional plans and AND-OR search trees to handle non-determinism.
