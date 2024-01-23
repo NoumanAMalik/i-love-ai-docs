@@ -5,10 +5,12 @@
 - Introduces conditional plans and AND-OR search trees to handle non-determinism.
 - Discusses the importance of contingency plans to cover all possible outcomes of actions.
 
+
 ### 4.2 Sensorless and Partially Observable Problems
 - Addresses problems where the agent's sensors provide no information or partial information.
 - Explores belief state space where the agent must consider all possible states it might be in.
 - Shows how to construct solutions in belief state space using modified search algorithms.
+
 
 ### 4.3 Online Search Agents and Unknown Environments
 - Considers agents that operate by interleaving computation with action, which is essential in dynamic or unknown environments.
@@ -34,6 +36,9 @@
 - State estimation is critical in complex environments to maintain an accurate belief state.
 - Discusses the opportunities for learning in online search, including learning a map of the environment and updating cost estimates.
 - Suggests that agents can improve their future problem-solving abilities by using incremental search strategies.
+
+-  ![](https://game.c.u-tokyo.ac.jp/post/2023/04/26/clip_v4.gif)
+> Source : https://game.c.u-tokyo.ac.jp/post/2023/04/26/
 
 ### 4.5 Online Search Agents and Unknown Environments
 - Online search agents interleave computation with action in dynamic environments.
