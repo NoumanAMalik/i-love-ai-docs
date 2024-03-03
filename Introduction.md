@@ -1,41 +1,63 @@
-# Chapter 1: Intro
+# Introduction
 
-## Section 1.1 Introduction to Artificial Intelligence: 
-- AI is a field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence. These tasks can include things like recognizing speech, understanding natural language, making decisions, and learning from experience.
-- AI has the potential to revolutionize many industries and aspects of our lives, from healthcare and transportation to education and entertainmentd. For example, AI-powered medical diagnosis systems can help doctors make more accurate diagnoses, while self-driving cars can reduce traffic accidents and improve mobility for people who can't drive.
-- However, AI also raises ethical and societal concerns, such as the potential for job displacement, bias and discrimination in decision-making, and the impact on privacy and security.
+In which we try to explain why we consider artificial intelligence to be a subject most worthy of study, and in which we try to decide what exactly it is, this being a good thing to decide before embarking.
 
-## Section 1.2 The Foundations of Artificial Intelligence:
-- Philosophy, mathematics, and computer science are the three main fields that have contributed to the development of AI. Each of these fields has provided important insights and tools for understanding and creating intelligent machines.
-- Philosophers like Aristotle and Ramon Llull developed early systems of reasoning that influenced later AI research. For example, Aristotle's syllogisms provided a framework for logical reasoning, while Llull's combinatorial system was an early form of mechanical reasoning.
-- Mathematics provides the formal language and tools for representing and manipulating knowledge and reasoning. For example, propositional logic and predicate logic are used to represent knowledge and make inferences, while probability theory is used to reason under uncertainty.
-- Computer science provides the hardware and software infrastructure for implementing AI systems. This includes things like processors, memory, and storage for hardware, as well as programming languages, algorithms, and data structures for software.
+We call ourselves *Homo sapiens*—man the wise—because our intelligence is so important to us. For thousands of years, we have tried to understand how we think and act—that is, how our brain, a mere handful of matter, can perceive, understand, predict, and manipulate a world far larger and more complicated than itself. The field of artificial intelligence, or AI, is concerned with not just understanding but also building intelligent entities—machines that can compute how to act effectively and safely in a wide variety of novel situations.
 
-## Section 1.3 The History of Artificial Intelligence:
-- AI has a long and rich history, dating back to ancient Greek myths and legends. For example, the story of Pygmalion and Galatea involves a sculptor who creates a statue that comes to life, while the story of Daedalus and Icarus involves a craftsman who creates wings that allow him to fly.
-- The modern era of AI began in the 1950s, with the development of early AI programs like the Logic Theorist and the General Problem Solver. These programs were designed to perform tasks like proving mathematical theorems and solving puzzles.
-- The field experienced several "AI winters" in which funding and interest declined, but has since experienced a resurgence due to advances
-- Scientific psychology's origins are attributed to Hermann von Helmholtz and Wilhelm Wundt. Wundt opened the first laboratory of experimental psychology in 1879, focusing on controlled experiments involving introspection.
-- Behaviorism, led by John Watson, rejected theories involving mental processes, emphasizing the study of objective measures of stimuli and responses. It had more success with animals than with humans.
-- Cognitive psychology, tracing back to William James and promoted by researchers like Frederic Bartlett and Kenneth Craik, views the brain as an information-processing device.
-- Human-computer interaction (HCI) emphasizes intelligence augmentation (IA) rather than AI. Doug Engelbart championed the idea of IA, which complements AI's focus on intelligent machine behavior.
-- The field explores the development of efficient computers. It traces the history of computer hardware evolution, including Moore's law, parallel processing, and hardware tuned for AI applications.
-- Linguistics and AI intersect in the field of computational linguistics, focusing on understanding language and knowledge representation. Noam Chomsky's theories had a significant impact on the direction of AI research in this area.
+Surveys regularly rank AI as one of the most interesting and fastest-growing fields, and it is already generating over a trillion dollars a year in revenue. AI expert Kai-Fu Lee predicts that its impact will be “more than anything in the history of mankind.” Moreover, the intellectual frontiers of AI are wide open. Whereas a student of an older science such as physics might feel that the best ideas have already been discovered by Galileo, Newton, Curie, Einstein, and the rest, AI still has many openings for full-time masterminds.
+
+AI currently encompasses a huge variety of subfields, ranging from the general (learning, reasoning, perception, and so on) to the specific, such as playing chess, proving mathematical theorems, writing poetry, driving a car, or diagnosing diseases. AI is relevant to any intellectual task; it is truly a universal field.
+
+## What Is AI?
+
+We have claimed that AI is interesting, but we have not said what it is. Historically, researchers have pursued several different versions of AI. Some have defined intelligence in terms of fidelity to human performance, while others prefer an abstract, formal definition of intelligence called rationality—loosely speaking, doing the “right thing.” The subject matter itself also varies: some consider intelligence to be a property of internal thought processes and reasoning, while others focus on intelligent behavior, an external characterization.
+
+From these two dimensions—human vs. rational and thought vs. behavior—there are four possible combinations, and there have been adherents and research programs for all four. The methods used are necessarily different: the pursuit of human-like intelligence must be in part an empirical science related to psychology, involving observations and hypotheses about actual human behavior and thought processes; a rationalist approach, on the other hand, involves a combination of mathematics and engineering, and connects to statistics, control theory, and economics. The various groups have both disparaged and helped each other. Let us look at the four approaches in more detail.
+
+###  Acting humanly: The Turing test approach
+
+The Turing test, proposed by Alan Turing (1950), was designed as a thought experiment that would sidestep the philosophical vagueness of the question “Can a machine think?” A computer passes the test if a human interrogator, after posing some written questions, cannot tell whether the written responses come from a person or from a computer.
+
+The computer would need the following capabilities:
+- **Natural language processing** to communicate successfully in a human language.
+- **Knowledge representation** to store what it knows or hears.
+- **Automated reasoning** to answer questions and to draw new conclusions.
+- **Machine learning** to adapt to new circumstances and to detect and extrapolate patterns.
+
+Turing viewed the physical simulation of a person as unnecessary to demonstrate intelligence. However, other researchers have proposed a total Turing test, which requires interaction with objects and people in the real world. To pass the total Turing test, a robot will need:
+- **Computer vision** and **speech recognition** to perceive the world.
+- **Robotics** to manipulate objects and move about.
+
+These six disciplines compose most of AI
 
 
-## Section 1.4 The State of the Art in Artificial Intelligence:
-- AI has made significant progress in recent years, particularly in the areas of machine learning, natural language processing, and computer vision. These advances have been driven by factors like the availability of large datasets, improvements in computing power, and the development of new algorithms and architectures.
-- AI systems are now capable of performing many tasks that were previously thought to require human intelligence, such as playing complex games like Go and chess, recognizing objects in images, and translating between languages.
-- However, there are still many challenges to be overcome in AI research. For example, developing AI systems that can reason and understand context in the way that humans do remains a major challenge. Other challenges include ensuring that AI systems are fair, transparent, and accountable, and addressing the potential impact of AI on jobs and society.
-- Despite these challenges, AI has the potential to revolutionize many industries and aspects of our lives. For example, AI-powered medical diagnosis systems can help doctors make more accurate diagnoses, while self-driving cars can reduce traffic accidents and improve mobility for people who can't drive. As AI continues to advance, it will be important to ensure that its benefits are shared widely and that its risks are managed responsibly.
-- Stanford University's AI100 reports substantial increases in the future uses of AI applications, including self-driving cars, healthcare diagnostics, and more.
-- The AI Index reports show significant growth in AI-related fields, including machine learning, computer vision, and natural language processing.
-- Student enrollment in AI courses has increased significantly in the U.S. and internationally.
-- There is a lack of gender diversity in the field of AI. Professors, Ph.D. students, and industry hires are predominantly male.
-- Conferences like NeurIPS have seen a significant increase in attendance.
+###  Thinking humanly: The cognitive modeling approach
 
-## Section 1.5 Risks and Benefits of AI:
+To say that a program thinks like a human, we must know how humans think. We can learn about human thought in three ways:
+- **Introspection:** trying to catch our own thoughts as they go by.
+- **Psychological experiments:** observing a person in action.
+- **Brain imaging:** observing the brain in action.
 
-- Benefits of AI include its potential to free humanity from menial work, accelerate scientific research, and solve various global challenges.
-- Risks associated with AI include the development of lethal autonomous weapons, mass surveillance, biased decision-making, and potential job displacement.
-- Concerns about AI's impact on employment have been present for centuries, with complex effects on the job market.
+Once we have a sufficiently precise theory of the mind, it becomes possible to express the theory as a computer program. If the program’s input–output behavior matches corresponding human behavior, that is evidence that some of the program’s mechanisms could also be operating in humans.
+
+The interdisciplinary field of **cognitive science** brings together computer models from AI and experimental techniques from psychology to construct precise and testable theories of the human mind. Cognitive science is a fascinating field in itself, worthy of several textbooks and at least one encyclopedia. We will occasionally comment on similarities or differences between AI techniques and human cognition.
+
+###  Thinking rationally: The "laws of thought" approach
+
+The Greek philosopher Aristotle was one of the first to attempt to codify "right thinking"—that is, irrefutable reasoning processes. These laws of thought were supposed to govern the operation of the mind; their study initiated the field called logic.
+
+Logicians in the 19th century developed a precise notation for statements about objects in the world and the relations among them. By 1965, programs could, in principle, solve any solvable problem described in logical notation. The so-called **logicist tradition** within artificial intelligence hopes to build on such programs to create intelligent systems.
+
+###  Acting rationally: The rational agent approach
+
+An agent is just something that acts. Computer agents are expected to do more: operate autonomously, perceive their environment, persist over a prolonged time period, adapt to change, and create and pursue goals. A rational agent is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.
+
+The rational-agent approach to AI has prevailed throughout most of the field’s history. In the early decades, rational agents were built on logical foundations and formed definite plans to achieve specific goals. Later, methods based on probability theory and machine learning allowed the creation of agents that could make decisions under uncertainty to attain the best expected outcome.
+
+###  Beneficial machines
+
+The standard model has been a useful guide for AI research since its inception, but it is probably not the right model in the long run. The reason is that the standard model assumes that we will supply a fully specified objective to the machine.
+
+The problem of achieving agreement between our true preferences and the objective we put into the machine is called the **value alignment problem**. It becomes more and more difficult to specify the objective completely and correctly as we move into the real world. This leads to the need for a new formulation—one in which the machine is pursuing our objectives but is necessarily uncertain as to what they are.
+
+Ultimately, we want agents that are provably beneficial to humans. This general paradigm is so pervasive that we might call it the standard model. It prevails not only in AI but also in control theory, operations research, statistics, and economics.
