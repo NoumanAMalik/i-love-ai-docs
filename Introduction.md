@@ -1,4 +1,4 @@
-<h1 align="center"> Introduction </h1>
+# Introduction 
 
 In which we try to explain why we consider artificial intelligence to be a subject most worthy of study, and in which we try to decide what exactly it is, this being a good thing to decide before embarking.
 
