@@ -8,6 +8,10 @@ Surveys regularly rank AI as one of the most interesting and fastest-growing fie
 
 AI currently encompasses a huge variety of subfields, ranging from the general (learning, reasoning, perception, and so on) to the specific, such as playing chess, proving mathematical theorems, writing poetry, driving a car, or diagnosing diseases. AI is relevant to any intellectual task; it is truly a universal field.
 
+<p align="center">
+   <img src="https://miro.medium.com/v2/resize:fit:610/1*SJPacPhP4KDEB1AdhOFy_Q.png" alt="Alternate Text" width="350" height="300">
+</p>
+
 ## 1.1 What Is AI?
 
 We have claimed that AI is interesting, but we have not said what it is. Historically, researchers have pursued several different versions of AI. Some have defined intelligence in terms of fidelity to human performance, while others prefer an abstract, formal definition of intelligence called rationality—loosely speaking, doing the “right thing.” The subject matter itself also varies: some consider intelligence to be a property of internal thought processes and reasoning, while others focus on intelligent behavior, an external characterization.
@@ -30,6 +34,10 @@ Turing viewed the physical simulation of a person as unnecessary to demonstrate 
 
 These six disciplines compose most of AI
 
+
+<p align="center">
+   <img src="https://s.abcnews.com/images/US/TuringTestInfographic_v01_DG_1689800738777_hpEmbed_16x9_992.jpg" alt="Alternate Text" width="500" height="300">
+</p>
 
 ###  Thinking humanly: The cognitive modeling approach
 
@@ -65,6 +73,11 @@ Ultimately, we want agents that are provably beneficial to humans. This general 
 ## 1.2 The Foundations of Artificial Intelligence
 
 In this section, we explore the multidisciplinary roots of AI, acknowledging the contributions from various fields. It's essential to note that the history highlighted here focuses on a select number of influential figures and ideas, and does not encompass all contributions to AI.
+
+<p align="center">
+   <img src="https://www.tutorialspoint.com/artificial_intelligence/images/components_of_ai.jpg" alt="Alternate Text" width="300" height="300">
+</p>
+
 
 ###  Philosophy
 Philosophy has pondered questions fundamental to AI, such as the possibility of formalizing reasoning, the nature of mind and matter, the origins of knowledge, and how knowledge translates into action. Key contributions include:
