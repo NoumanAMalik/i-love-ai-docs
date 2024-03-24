@@ -1,4 +1,4 @@
-# Chapter 3: Solving Problems by Searching
+#  Solving Problems by Searching
 
 This chapter explores how agents can plan a series of actions to achieve their goals, focusing on the concept of *problem-solving agents* and the process known as *search*.
 
